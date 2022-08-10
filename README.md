@@ -1,4 +1,4 @@
-### Hi There, I'm Alif 👋
+## Hi There, I'm Alif 👋
 
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=aliftrd&show_icons=true&theme=onedark">
 
