@@ -1,7 +1,7 @@
 ## Hi There, I'm Alif 👋
 
 <p align="center">
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliftrd&show_icons=true&theme=onedark&langs_count=8" />
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliftrd&show_icons=true&theme=onedark&langs_count=8&layout=compact" />
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=aliftrd&show_icons=true&theme=onedark" />
 </p>
   
