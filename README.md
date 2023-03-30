@@ -1,5 +1,6 @@
 ## Hi There, I'm Alif 👋
 
+<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliftrd&show_icons=true&theme=onedark&langs_count=8">
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=aliftrd&show_icons=true&theme=onedark">
 
 ### I'm a Developer and Student
