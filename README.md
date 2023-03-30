@@ -1,14 +1,11 @@
-## Hi There, I'm Alif 👋
+## Hi There 👋
 
 <p align="center">
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliftrd&show_icons=true&theme=onedark&langs_count=8&layout=compact" />
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=aliftrd&show_icons=true&theme=onedark" />
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliftrd&layout=compact&show_icons=true&hide_border=true&bg_color=000000&hide=commits&icon_color=4C566A&title_color=CB9C07&text_color=D1A20F&langs_count=8" />   
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=aliftrd&show_icons=true&hide_border=true&bg_color=000000&hide=commits&icon_color=4C566A&title_color=CB9C07&text_color=D1A20F" />
 </p>
   
-### I'm a Developer and Student
+### Ungraduate of Informatics Engineering
 - 🔭 I’m currently working on my personal projects, you can check it [here](https://aliftriadi.my.id)!
-- 🌱 I’m currently learning Javascript
-- 😄 I'm natively speak Indonesian.
-- 💕 I'm currently fall in love with Laravel
-- 📫 You can reach me at my instagram [@alftri.dev](https://instagram.com/alftri.dev)
+- 📫 You can reach me at my LinkedIn [@alftridev](https://www.linkedin.com/in/alftridev/)
 
