@@ -7,5 +7,6 @@
   
 ### Ungraduate of Informatics Engineering
 - 🔭 I’m currently working on my personal projects, you can check it [here](https://aliftriadi.my.id)!
+- 👀 I’m interested with Backend Development, and currently starting learning GO
 - 📫 You can reach me at my LinkedIn [@alftridev](https://www.linkedin.com/in/alftridev/)
 
