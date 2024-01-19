@@ -1,3 +1,7 @@
+<a href='https://github.com/Safouene1/support-palestine-banner'>
+  <img src='https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg' alt='Support Palestine' width='100%' />
+</a>
+
 <h1 align="center">Hi There 👋</h1>
 <div align="center" style="margin-bottom: 0px;">
   <b>Alif</b>
