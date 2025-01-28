@@ -12,7 +12,7 @@
   
 ### Ungraduate of Informatics Engineering
 - 🔭 I’m currently working on my personal projects, you can check it [here](https://aliftriadi.my.id)!
-- 👀 I’m interested with Backend Development, and currently starting learning GO
+- 👀 I’m interested with Backend and Mobile Development.
 - 👌 Good understanding of Laravel.
 - 👌 Have some experience with ExpressJS, and PostgreSQL.
 - 🛁 Trying to improve and write cleaner code.
@@ -21,7 +21,7 @@
 ## ❤️ Programming Languages & Framework
 
 ### Primary
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 📊 Stats
 <p align="center">
