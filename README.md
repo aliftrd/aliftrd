@@ -7,7 +7,7 @@
   <b>Alif</b>
 </div>
 <p align="center">
-  <i>Junior Web Developer</i>
+  <i>Web/Mobile Engineer</i>
 </p>
   
 ### Ungraduate of Informatics Engineering
