@@ -11,12 +11,12 @@
 </p>
   
 ### Ungraduate of Informatics Engineering
-- 🔭 I’m currently working on my personal projects, you can check it [here](https://aliftriadi.my.id)!
+- 🔭 I’m currently working on my personal projects, you can check it [here](https://aliftrd.my.id)!
 - 👀 I’m interested with Backend and Mobile Development.
 - 👌 Good understanding of Laravel.
 - 👌 Have some experience with ExpressJS, and PostgreSQL.
 - 🛁 Trying to improve and write cleaner code.
-- 📫 You can reach me at my LinkedIn [@alftridev](https://www.linkedin.com/in/alftridev/)
+- 📫 You can reach me at my LinkedIn [@alftridev](https://www.linkedin.com/in/aliftrd/)
 
 ## ❤️ Programming Languages & Framework
 
