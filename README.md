@@ -16,7 +16,7 @@
 - 👌 Good understanding of Laravel.
 - 👌 Have some experience with ExpressJS, and PostgreSQL.
 - 🛁 Trying to improve and write cleaner code.
-- 📫 You can reach me at my LinkedIn [@alftridev](https://www.linkedin.com/in/aliftrd/)
+- 📫 You can reach me at my LinkedIn [@aliftrd](https://www.linkedin.com/in/aliftrd/)
 
 ## ❤️ Programming Languages & Framework
 
